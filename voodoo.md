@@ -1,6 +1,6 @@
 # Voodoo
 
-Voodoo is a modpack building tool for a easier
+Voodoo is a modpack building tool for easier deployment and updating
 
 Current Features:
 
